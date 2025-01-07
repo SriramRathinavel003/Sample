@@ -1,6 +1,5 @@
 # Task 2
 
-Changing the contthythents
 
 ## Getting started
 
